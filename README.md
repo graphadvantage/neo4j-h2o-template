@@ -3,7 +3,7 @@ H2O.ai Machine Learning template, reading data from Neo4j graph, updating graph 
 
 ![](https://i1.wp.com/dataaspirant.com/wp-content/uploads/2017/01/irises.png?w=600)
 
-### Neo4j and H2O integration, using Pandas dataframes and py2neo
+### Neo4j and H2O integration, using pandas and py2neo
 ### Predictions updates using py2neo or bolt
 
 [original source here](https://anaconda.org/koverholt/h2o-kmeans-clustering/notebook)
