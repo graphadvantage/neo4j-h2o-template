@@ -1,4 +1,4 @@
-# neo4j-h2O-template
+# neo4j-h2o-template
 H2O.ai Machine Learning template, reading data from Neo4j graph, updating graph with predictions
 
 ![](https://i1.wp.com/dataaspirant.com/wp-content/uploads/2017/01/irises.png?w=600)
